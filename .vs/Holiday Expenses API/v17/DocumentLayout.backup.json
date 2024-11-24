@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Programming Web (YP0878  2022)\\BackEnd Retake\\Holiday Expenses API V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E46835F0-8E34-4368-A9ED-DBD68526416D}|Holiday Expenses API.csproj|c:\\users\\ikyol\\desktop\\thomas_more_work\\old 1\\programming web (yp0878  2022)\\backend retake\\holiday expenses api v2\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46835F0-8E34-4368-A9ED-DBD68526416D}|Holiday Expenses API.csproj|solutionrelative:data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46835F0-8E34-4368-A9ED-DBD68526416D}|Holiday Expenses API.csproj|c:\\users\\ikyol\\desktop\\thomas_more_work\\old 1\\programming web (yp0878  2022)\\backend retake\\holiday expenses api v2\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46835F0-8E34-4368-A9ED-DBD68526416D}|Holiday Expenses API.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46835F0-8E34-4368-A9ED-DBD68526416D}|Holiday Expenses API.csproj|c:\\users\\ikyol\\desktop\\thomas_more_work\\old 1\\programming web (yp0878  2022)\\backend retake\\holiday expenses api v2\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46835F0-8E34-4368-A9ED-DBD68526416D}|Holiday Expenses API.csproj|solutionrelative:controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46835F0-8E34-4368-A9ED-DBD68526416D}|Holiday Expenses API.csproj|c:\\users\\ikyol\\desktop\\thomas_more_work\\old 1\\programming web (yp0878  2022)\\backend retake\\holiday expenses api v2\\data\\datalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46835F0-8E34-4368-A9ED-DBD68526416D}|Holiday Expenses API.csproj|solutionrelative:data\\datalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46835F0-8E34-4368-A9ED-DBD68526416D}|Holiday Expenses API.csproj|c:\\users\\ikyol\\desktop\\thomas_more_work\\old 1\\programming web (yp0878  2022)\\backend retake\\holiday expenses api v2\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46835F0-8E34-4368-A9ED-DBD68526416D}|Holiday Expenses API.csproj|solutionrelative:models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46835F0-8E34-4368-A9ED-DBD68526416D}|Holiday Expenses API.csproj|c:\\users\\ikyol\\desktop\\thomas_more_work\\old 1\\programming web (yp0878  2022)\\backend retake\\holiday expenses api v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46835F0-8E34-4368-A9ED-DBD68526416D}|Holiday Expenses API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46835F0-8E34-4368-A9ED-DBD68526416D}|Holiday Expenses API.csproj|c:\\users\\ikyol\\desktop\\thomas_more_work\\old 1\\programming web (yp0878  2022)\\backend retake\\holiday expenses api v2\\models\\expensecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46835F0-8E34-4368-A9ED-DBD68526416D}|Holiday Expenses API.csproj|solutionrelative:models\\expensecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Programming Web (YP0878  2022)\\BackEnd Retake\\Holiday Expenses API V2\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "Data\\Database.cs",
+              "ToolTip": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Programming Web (YP0878  2022)\\BackEnd Retake\\Holiday Expenses API V2\\Data\\Database.cs",
+              "RelativeToolTip": "Data\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:06:31.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Programming Web (YP0878  2022)\\BackEnd Retake\\Holiday Expenses API V2\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Programming Web (YP0878  2022)\\BackEnd Retake\\Holiday Expenses API V2\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:06:31.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpenseController.cs",
+              "DocumentMoniker": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Programming Web (YP0878  2022)\\BackEnd Retake\\Holiday Expenses API V2\\Controllers\\ExpenseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExpenseController.cs",
+              "ToolTip": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Programming Web (YP0878  2022)\\BackEnd Retake\\Holiday Expenses API V2\\Controllers\\ExpenseController.cs",
+              "RelativeToolTip": "Controllers\\ExpenseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:06:31.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataList.cs",
+              "DocumentMoniker": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Programming Web (YP0878  2022)\\BackEnd Retake\\Holiday Expenses API V2\\Data\\DataList.cs",
+              "RelativeDocumentMoniker": "Data\\DataList.cs",
+              "ToolTip": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Programming Web (YP0878  2022)\\BackEnd Retake\\Holiday Expenses API V2\\Data\\DataList.cs",
+              "RelativeToolTip": "Data\\DataList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:06:31.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Programming Web (YP0878  2022)\\BackEnd Retake\\Holiday Expenses API V2\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Programming Web (YP0878  2022)\\BackEnd Retake\\Holiday Expenses API V2\\Models\\Expense.cs",
+              "RelativeToolTip": "Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:06:31.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Programming Web (YP0878  2022)\\BackEnd Retake\\Holiday Expenses API V2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Programming Web (YP0878  2022)\\BackEnd Retake\\Holiday Expenses API V2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:06:31.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExpenseCategory.cs",
+              "DocumentMoniker": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Programming Web (YP0878  2022)\\BackEnd Retake\\Holiday Expenses API V2\\Models\\ExpenseCategory.cs",
+              "RelativeDocumentMoniker": "Models\\ExpenseCategory.cs",
+              "ToolTip": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Programming Web (YP0878  2022)\\BackEnd Retake\\Holiday Expenses API V2\\Models\\ExpenseCategory.cs",
+              "RelativeToolTip": "Models\\ExpenseCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:06:31.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\appsettings.json
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\Holiday Expenses API.exe
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\Holiday Expenses API.deps.json
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\Holiday Expenses API.runtimeconfig.json
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\Holiday Expenses API.dll
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\Holiday Expenses API.pdb
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.csproj.AssemblyReference.cache
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.AssemblyInfoInputs.cache
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.AssemblyInfo.cs
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.csproj.CoreCompileInputs.cache
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\staticwebassets\msbuild.Holiday Expenses API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\staticwebassets\msbuild.build.Holiday Expenses API.props
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Holiday Expenses API.props
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Holiday Expenses API.props
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\scopedcss\bundle\Holiday Expenses API.styles.css
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.csproj.CopyComplete
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.dll
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\refint\Holiday Expenses API.dll
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.pdb
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.genruntimeconfig.cache
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\ref\Holiday Expenses API.dll
+C:\Users\ikYOL\Desktop\Thomas More Work\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\LiteDB.dll
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.csproj.AssemblyReference.cache
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.AssemblyInfoInputs.cache
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.AssemblyInfo.cs
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.csproj.CoreCompileInputs.cache
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.dll
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\refint\Holiday Expenses API.dll
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.pdb
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\appsettings.json
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\Holiday Expenses API.exe
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\Holiday Expenses API.deps.json
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\Holiday Expenses API.runtimeconfig.json
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\Holiday Expenses API.dll
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\Holiday Expenses API.pdb
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\LiteDB.dll
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\staticwebassets\msbuild.Holiday Expenses API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\staticwebassets\msbuild.build.Holiday Expenses API.props
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Holiday Expenses API.props
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Holiday Expenses API.props
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\scopedcss\bundle\Holiday Expenses API.styles.css
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday .3CE8BC9B.Up2Date
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\Holiday Expenses API.genruntimeconfig.cache
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API\obj\Debug\net6.0\ref\Holiday Expenses API.dll
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\bin\Debug\net6.0\appsettings.json
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\bin\Debug\net6.0\Holiday Expenses API.exe
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\bin\Debug\net6.0\Holiday Expenses API.deps.json
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\bin\Debug\net6.0\Holiday Expenses API.runtimeconfig.json
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\bin\Debug\net6.0\Holiday Expenses API.dll
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\bin\Debug\net6.0\Holiday Expenses API.pdb
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\bin\Debug\net6.0\LiteDB.dll
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\Holiday Expenses API.csproj.AssemblyReference.cache
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\Holiday Expenses API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\Holiday Expenses API.AssemblyInfoInputs.cache
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\Holiday Expenses API.AssemblyInfo.cs
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\Holiday Expenses API.csproj.CoreCompileInputs.cache
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\Holiday Expenses API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\Holiday Expenses API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\staticwebassets\msbuild.Holiday Expenses API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\staticwebassets\msbuild.build.Holiday Expenses API.props
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Holiday Expenses API.props
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Holiday Expenses API.props
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\scopedcss\bundle\Holiday Expenses API.styles.css
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\Holiday .3CE8BC9B.Up2Date
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\Holiday Expenses API.dll
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\refint\Holiday Expenses API.dll
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\Holiday Expenses API.pdb
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\Holiday Expenses API.genruntimeconfig.cache
+C:\Users\ikYOL\Desktop\Thomas_More_Work\OLD 1\Programming Web (YP0878  2022)\BackEnd Retake\Holiday Expenses API V2\obj\Debug\net6.0\ref\Holiday Expenses API.dll
